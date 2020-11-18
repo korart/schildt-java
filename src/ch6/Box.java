@@ -1,3 +1,5 @@
+package ch6;
+
 public class Box {
     double width;
     double height;
