@@ -16,5 +16,10 @@ public class StackDemo {
         System.out.println("Clear stack:");
         while (stack.size() > 0)
             System.out.println(stack.pop());
+
+        for (int i = 0; i < 10; i++) {
+            stack.push(i);
+        }
+        System.out.println("Stack size: " + stack.size());
     }
 }
