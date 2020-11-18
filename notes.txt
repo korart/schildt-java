@@ -1,2 +1,4 @@
 Run from console
     java -classpath ./out/production/schildt-java ch8.Figure.FindAreas
+
+Book page 268
