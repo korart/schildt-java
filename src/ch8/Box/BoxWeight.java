@@ -1,4 +1,4 @@
-package ch8;
+package ch8.Box;
 
 public class BoxWeight extends Box {
     private double weight;

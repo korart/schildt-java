@@ -1,4 +1,4 @@
-package ch8;
+package ch8.Box;
 
 public class BoxDemo {
     public static void main(String[] args) {
