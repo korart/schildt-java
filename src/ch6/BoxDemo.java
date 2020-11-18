@@ -8,6 +8,6 @@ public class BoxDemo {
         box.depth = 20;
 
         double volume = box.width * box.height * box.depth;
-        System.out.println("Объем коробки: " + volume);
+        System.out.println("Box volume: " + volume);
     }
 }
