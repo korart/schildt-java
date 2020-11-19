@@ -48,5 +48,6 @@ class FSTest {
         for (int i = 0; i < 15; i++) {
             System.out.println(stack2.pop());
         }
+        stack1.clear();
     }
 }
